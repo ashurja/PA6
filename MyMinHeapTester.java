@@ -1,6 +1,9 @@
 /**
  * Your beautiful file header here! 
- * (Note, this file won't be graded for style). 
+ * (Note, this file won't be graded for style).
+ * Name: Jamshed Ashurov
+ * PID: A15475198
+ * Email: jashurov@ucsd.edu 
  */
 import org.junit.*;
 import static org.junit.Assert.*;
