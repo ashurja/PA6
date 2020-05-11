@@ -41,7 +41,7 @@ public class MyMinHeap<E extends Comparable<E>>
             throw new NullPointerException(); 
         }
         list = new ArrayList<>(collection); 
-        for (int i = this.list.size() - 1; i <= 0; i--) {
+        for (int i = this.list.size() - 1; i >=0; i--) {
             System.out.println("check"); 
             percolateDown(i); 
         }
